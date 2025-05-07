@@ -2,16 +2,9 @@ using System;
 
 namespace GestionInventario.Domain.Entities;
 
-<<<<<<< HEAD
-
-=======
->>>>>>> feature/entities
-public class Eps
+public class Arl
 {
     public int Id { get; set; }
     public string? Nombre { get; set; }
-<<<<<<< HEAD
-=======
 
->>>>>>> feature/entities
 }
